@@ -1,0 +1,74 @@
+.avir{
+    color: azure;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    font-weight: 900;
+}
+
+#bingo{
+    color: aqua;
+    font-size: 100px;
+    background-color:red;
+    font-weight: 900;
+    
+}
+#chess{
+    background: local;
+    color: blue;
+    text-shadow: 10px 10px 2px violet;
+}
+
+#a{
+    text-decoration: line-through;
+    text-transform: lowercase;
+    
+}
+
+#ab{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+#abc{
+    text-decoration: line-through;
+    text-transform: uppercase
+}
+
+
+#h{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    box-shadow: 5px 5px 3px blue;
+}
+
+#x{
+    height: 100px;
+    width: 500px;
+    background-color: yellow;
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    text-shadow: 4px 4px 1px white;
+    border: 10px red;
+    box-shadow: 4px 4px 2px red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
